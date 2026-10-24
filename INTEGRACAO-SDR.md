@@ -5,10 +5,10 @@
 - A atribuição é guardada em `sessionStorage`.
 - Os CTAs do WhatsApp recebem a origem/campanha no texto enviado.
 - Nenhuma chave secreta é exposta.
-- O número único da V1 permanece +55 51 98966-7702.
+- Números atendidos pelo bridge: Porto Alegre +55 51 98966-7702 e Salvador +55 71 99270-9308.
 
 ## Ativação no index.html
-Adicionar antes de `</body>`:
+ATIVADO em 24/10/2026. A linha abaixo está antes de `</body>`:
 
 ```html
 <script src="./sdr-bridge.js" defer></script>
